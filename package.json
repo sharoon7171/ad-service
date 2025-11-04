@@ -1,0 +1,16 @@
+{
+  "name": "ad-service",
+  "version": "1.0.0",
+  "description": "Universal ad service for Chrome extensions",
+  "scripts": {
+    "switch": "node switch-ad.js"
+  },
+  "keywords": [
+    "ads",
+    "chrome-extension",
+    "promotion"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
